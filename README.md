@@ -1,7 +1,5 @@
 
-![Picture7](https://github.com/zeon-X/zeon-X/assets/73699852/e9fa3beb-5e3b-45c0-9e31-949a02206e76)
 ![Picture9](https://github.com/zeon-X/zeon-X/assets/73699852/520c88cc-b2d6-428a-a366-54b6a20a453b)
-![Picture21](https://github.com/zeon-X/zeon-X/assets/73699852/7e5dfcbe-2858-45b0-8b59-61a41a1d3158)
 ![Picture2111](https://github.com/zeon-X/zeon-X/assets/73699852/5c23b7b6-acef-4c4d-8411-0e35203a70f8)
 
 ## 🚀 About Me
