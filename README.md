@@ -3,8 +3,8 @@ I'm Passionate about problem-solving and continuous learning, I excel in dynamic
 
 
 ## 🛠 Skills
-JavaScript, PHP, Python, C++, Java
 
+Mobile App Development (Android & iOS), Website Developemnt.
 
 ## ⚙️ Tech Stack
 
@@ -13,6 +13,8 @@ JavaScript, PHP, Python, C++, Java
 **Mobile Application:** Native Android, React Native, Expo
 
 **Back-End:** Node.js
+
+**Programing Languages:** JavaScript, PHP, Python, C++, Java
 
 **Database:** MongoDB, MySQL
 
