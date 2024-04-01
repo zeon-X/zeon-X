@@ -1,6 +1,4 @@
 
-![Picture2111](https://github.com/zeon-X/zeon-X/assets/73699852/5c23b7b6-acef-4c4d-8411-0e35203a70f8)
-
 ## 🚀 About Me
 I'm Passionate about problem-solving and continuous learning, I excel in dynamic environments, delivering innovative solutions through cross-functional collaboration. Let's connect to explore collaboration opportunities and drive measurable results.
 
