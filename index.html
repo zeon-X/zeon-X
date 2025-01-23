@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+    }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-r from-purple-500 to-indigo-500 text-white text-center py-20">
+    <h1 class="text-4xl font-bold">Hi, I'm a Software Engineer</h1>
+    <p class="mt-4 text-xl">I build amazing web and mobile experiences.</p>
+  </section>
+
+  <!-- Services Section -->
+  <section class="py-16 px-8">
+    <h2 class="text-3xl font-bold text-center mb-8">Services</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <!-- Card 1 -->
+      <div class="bg-white p-6 shadow-md rounded-lg text-center">
+        <h3 class="text-xl font-bold mb-2">Mobile App Development</h3>
+        <p>Creating modern, responsive mobile applications.</p>
+      </div>
+      <!-- Card 2 -->
+      <div class="bg-white p-6 shadow-md rounded-lg text-center">
+        <h3 class="text-xl font-bold mb-2">Website Development</h3>
+        <p>Building stunning and functional websites.</p>
+      </div>
+      <!-- Card 3 -->
+      <div class="bg-white p-6 shadow-md rounded-lg text-center">
+        <h3 class="text-xl font-bold mb-2">Backend Development</h3>
+        <p>Designing robust server-side systems.</p>
+      </div>
+      <!-- Card 4 -->
+      <div class="bg-white p-6 shadow-md rounded-lg text-center">
+        <h3 class="text-xl font-bold mb-2">AI Solutions</h3>
+        <p>Delivering intelligent solutions using AI.</p>
+      </div>
+    </div>
+    <div class="text-center mt-8">
+      <button class="bg-indigo-500 text-white py-2 px-6 rounded-lg">Discover More</button>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section class="py-16 px-8 bg-gray-100">
+    <h2 class="text-3xl font-bold text-center mb-8">Projects</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <!-- Project Card 1 -->
+      <div class="bg-white shadow-md rounded-lg overflow-hidden">
+        <img src="https://via.placeholder.com/400x200" alt="Project Cover" class="w-full">
+        <div class="p-6">
+          <h3 class="text-xl font-bold mb-2">Project 1</h3>
+          <p>Tech used: React, Node.js</p>
+          <a href="#" class="text-indigo-500">View Project</a>
+        </div>
+      </div>
+      <!-- Project Card 2 -->
+      <div class="bg-white shadow-md rounded-lg overflow-hidden">
+        <img src="https://via.placeholder.com/400x200" alt="Project Cover" class="w-full">
+        <div class="p-6">
+          <h3 class="text-xl font-bold mb-2">Project 2</h3>
+          <p>Tech used: Express, MongoDB</p>
+          <a href="#" class="text-indigo-500">View Project</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section class="py-16 px-8">
+    <h2 class="text-3xl font-bold text-center mb-8">Skills</h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+      <!-- Skill Icons -->
+      <div>
+        <img src="https://via.placeholder.com/64" alt="React" class="mx-auto">
+        <p class="mt-2">React</p>
+      </div>
+      <div>
+        <img src="https://via.placeholder.com/64" alt="Node.js" class="mx-auto">
+        <p class="mt-2">Node.js</p>
+      </div>
+      <div>
+        <img src="https://via.placeholder.com/64" alt="Express" class="mx-auto">
+        <p class="mt-2">Express</p>
+      </div>
+      <div>
+        <img src="https://via.placeholder.com/64" alt="MongoDB" class="mx-auto">
+        <p class="mt-2">MongoDB</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Me Section -->
+  <section class="py-16 px-8 bg-gray-100">
+    <h2 class="text-3xl font-bold text-center mb-8">About Me</h2>
+    <div class="max-w-3xl mx-auto text-center">
+      <p>
+        I'm a passionate software engineer with expertise in web and mobile development, backend engineering, and AI.  
+      </p>
+      <p class="mt-4">
+        <strong>Education:</strong><br>
+        RUET, CSE (2020-2025)<br>
+        Dhaka College (2017-2019)
+      </p>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="py-16 px-8">
+    <h2 class="text-3xl font-bold text-center mb-8">Contact</h2>
+    <div class="max-w-lg mx-auto">
+      <form action="#" method="POST" class="space-y-4">
+        <input type="text" placeholder="Your Name" class="w-full p-3 border border-gray-300 rounded-lg">
+        <input type="email" placeholder="Your Email" class="w-full p-3 border border-gray-300 rounded-lg">
+        <textarea placeholder="Your Message" class="w-full p-3 border border-gray-300 rounded-lg"></textarea>
+        <button type="submit" class="bg-indigo-500 text-white py-3 px-6 rounded-lg w-full">Send Message</button>
+      </form>
+    </div>
+  </section>
+</body>
+</html>
