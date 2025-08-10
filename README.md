@@ -1,8 +1,11 @@
-
 ## 🚀 About Me
-I'm Passionate about problem-solving and continuous learning, I excel in dynamic environments, delivering innovative solutions through cross-functional collaboration. Let's connect to explore collaboration opportunities and drive measurable results.
+I’m an enthusiastic and detail-oriented **Full Stack Developer** with 3+ years of hands-on experience building scalable, secure, and user-centric applications. Proficient in both frontend and backend development, I specialize in delivering high-performance solutions with clean architecture. I thrive in dynamic, collaborative environments, working seamlessly with global teams to deliver measurable results.
 
 ## ⚙️ Tech Stack
 
-Next.js, React, React Native, Expo, Redux, Expo, Tailwind, Bootstrap, Native Android, Node.js, JavaScript, PHP, Python, C++, Java, MongoDB, MySQL, GitHub, AWS Lambda, AWS Amplify, C-Panel, Firebase Services, Google Cloud Platform (GCP), Facebook SDK
-
+**Frontend:** React, Next.js, React Native, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript  
+**Backend:** Node.js, Express.js, Django, Django REST Framework, PHP  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Cloud & DevOps:** AWS Lambda, AWS Amplify, Firebase Services, Google Cloud Platform (GCP), Git, Docker, CI/CD, C-Panel  
+**Mobile:** React Native, Native Android, Facebook SDK, In-App Messaging  
+**Languages:** JavaScript, Python, PHP, C++, Java
