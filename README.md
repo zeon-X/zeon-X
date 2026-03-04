@@ -17,8 +17,6 @@ Focused on clean architecture, high-performance APIs, and cloud-native deploymen
   <img height="115" src="https://streak-stats.demolab.com?user=zeon-X&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <a href="https://gozeonx.com">Portfolio</a> · 
-  <a href="https://www.linkedin.com/in/mdshefatzeon/">LinkedIn</a> · 
-  <a href="mailto:gozeonx@gmail.com">Email</a>
-</p>
+[Portfolio](https://gozeonx.com) · 
+[LinkedIn](https://www.linkedin.com/in/mdshefatzeon/) · 
+[Email](mailto:gozeonx@gmail.com)
