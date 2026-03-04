@@ -1,6 +1,4 @@
-Full Stack Engineer with 3+ years of experience building scalable web and mobile applications using modern JavaScript and Python ecosystems.
-
-Focused on clean architecture, high-performance APIs, and cloud-native deployments. Experienced in shipping production-grade systems in distributed, product-driven environments.
+Full Stack Engineer with 3+ years of experience building scalable web and mobile applications.Focused on clean architecture, high-performance APIs, and cloud-native deployments. Experienced in shipping production-grade systems in distributed, product-driven environments.
 
 **Stack**
 <p>
