@@ -1,4 +1,6 @@
-Full Stack Engineer with 3+ years of experience building scalable web and mobile applications.Focused on clean architecture, high-performance APIs, and cloud-native deployments. Experienced in shipping production-grade systems in distributed, product-driven environments.
+Full Stack Engineer with 3.5+ years of experience building scalable backend systems, cross-platform mobile applications, and production-grade SaaS platforms. Specialized in Java (Spring Boot), MERN stack, and React Native with hands-on experience delivering complete product lifecycles across 5+ startups in Bangladesh, UAE, and the USA. Strong focus on clean architecture, high-performance APIs, secure cloud deployments, and solving real-world business problems through efficient engineering.
+
+Experienced in distributed teams, remote collaboration, and product-driven environments where reliability, scalability, and performance matter.
 
 **Stack**
 <p>
