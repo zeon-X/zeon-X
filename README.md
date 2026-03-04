@@ -1,96 +1,88 @@
 # Md. Shefat Zeon
 
 <p align="center">
-  <a href="https://gozeonx.com" target="_blank">Portfolio</a> •
-  <a href="https://github.com/zeon-X" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mdshefatzeon/" target="_blank">LinkedIn</a> •
-  <a href="mailto:gozeonx@gmail.com">Email</a>
+  <a href="https://gozeonx.com"><strong>Portfolio</strong></a> •
+  <a href="https://github.com/zeon-X"><strong>GitHub</strong></a> •
+  <a href="https://www.linkedin.com/in/mdshefatzeon/"><strong>LinkedIn</strong></a> •
+  <a href="mailto:gozeonx@gmail.com"><strong>Email</strong></a>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Results-driven **Full Stack Developer** with 3+ years of experience designing, developing, and deploying scalable web and mobile applications. Specialized in building secure, high-performance, and user-centric systems using modern JavaScript and Python ecosystems.
+Full Stack Developer with 3+ years of experience building scalable, secure, and high-performance web and mobile applications. Specialized in modern JavaScript ecosystems and Python-based backend systems.
 
-Strong foundation in clean architecture, RESTful APIs, cloud services, and DevOps practices. Passionate about delivering production-ready solutions and collaborating with global teams to create impactful digital products.
+Strong focus on clean architecture, API design, performance optimization, and cloud deployment. Passionate about delivering production-ready solutions and collaborating with global teams to build impactful digital products.
 
 ---
 
-## ⚙️ Technical Expertise
+## ⚙️ Tech Stack
 
 ### 🚀 Frontend
-- React.js  
-- Next.js  
-- React Native  
-- Redux  
-- Tailwind CSS  
-- Bootstrap  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js" />
+</p>
 
 ### 🔧 Backend
-- Node.js  
-- Express.js  
-- Django  
-- Django REST Framework  
-- PHP  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php" />
+</p>
 
 ### 🗄 Databases
-- MongoDB  
-- MySQL  
-- PostgreSQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
 ### ☁️ Cloud & DevOps
-- AWS Lambda  
-- AWS Amplify  
-- Firebase  
-- Google Cloud Platform (GCP)  
-- Docker  
-- Git  
-- CI/CD  
-- cPanel  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,git" />
+</p>
 
-### 📱 Mobile
-- React Native  
-- Native Android  
-- Facebook SDK  
-- In-App Messaging  
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+</p>
 
 ### 💻 Programming Languages
-- JavaScript  
-- Python  
-- PHP  
-- Java  
-- C++  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeon-X&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeon-X&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeon-X&theme=tokyonight" alt="GitHub Streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,php,java,cpp" />
 </p>
 
 ---
 
-## 🌍 Let's Connect
+## 📊 GitHub Analytics
 
-I’m always open to collaborating on interesting projects, startup ideas, and remote opportunities.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeon-X&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeon-X&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🌐 Portfolio: https://gozeonx.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mdshefatzeon/  
-- 📧 Email: gozeonx@gmail.com  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeon-X&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐️ *Building scalable solutions. Writing clean code. Delivering real impact.*
+## 🌍 Professional Focus
+
+- Scalable Web Applications  
+- RESTful API Architecture  
+- Cloud Deployment & DevOps  
+- Mobile App Development  
+- Performance Optimization  
+- Clean & Maintainable Code  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to remote opportunities, collaborations, and innovative product development.
+
+📌 Portfolio: https://gozeonx.com  
+💼 LinkedIn: https://www.linkedin.com/in/mdshefatzeon/  
+📧 Email: gozeonx@gmail.com  
+
+---
+
+⭐️ *Engineering scalable digital solutions with precision and performance.*
