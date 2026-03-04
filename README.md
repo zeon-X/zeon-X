@@ -4,11 +4,10 @@ Focused on clean architecture, high-performance APIs, and cloud-native deploymen
 
 **Stack**
 <p>
-  <img height="28" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,mongodb,postgres,aws,docker,git" />
+  <img height="32" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,mongodb,postgres,aws,docker,git" />
 </p>
 
 **GitHub Stats**
-
 
 <p align="left">
   <img height="164" src="https://streak-stats.demolab.com?user=zeon-X&hide_border=true&theme=tokyonight" />
@@ -16,5 +15,5 @@ Focused on clean architecture, high-performance APIs, and cloud-native deploymen
 
 **Connect**
 
-gozeonx.com · linkedin.com/in/mdshefatzeon · gozeonx@gmail.com
+www.gozeonx.com · www.linkedin.com/in/mdshefatzeon · gozeonx@gmail.com
 
