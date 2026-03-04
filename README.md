@@ -4,7 +4,7 @@ Focused on clean architecture, high-performance APIs, and cloud-native deploymen
 
 **Stack**
 <p>
-  <img height="48" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,mongodb,postgres,aws,docker,git" />
+  <img height="36" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,mongodb,postgres,aws,docker,git" />
 </p>
 
 **GitHub Stats**
