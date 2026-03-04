@@ -8,16 +8,16 @@ Focused on clean architecture, high-performance APIs, and cloud-native deploymen
 </p>
 
 ### GitHub Stats
-<p align="center">
+<p align="left">
   <img height="130" src="https://github-readme-stats.vercel.app/api?username=zeon-X&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeon-X&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="115" src="https://streak-stats.demolab.com?user=zeon-X&hide_border=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://gozeonx.com">Portfolio</a> · 
   <a href="https://www.linkedin.com/in/mdshefatzeon/">LinkedIn</a> · 
   <a href="mailto:gozeonx@gmail.com">Email</a>
