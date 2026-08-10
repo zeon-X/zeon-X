@@ -7,12 +7,6 @@ Experienced in distributed teams, remote collaboration, and product-driven envir
   <img height="36" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,python,mongodb,postgres,aws,docker,git" />
 </p>
 
-**GitHub Stats**
-
-<p align="left">
-  <img height="164" src="https://streak-stats.demolab.com?user=zeon-X&hide_border=true&theme=tokyonight" />
-</p>
-
 **Connect**
 
 www.gozeonx.com · www.linkedin.com/in/mdshefatzeon · gozeonx@gmail.com
